@@ -1,3 +1,3 @@
-This repository is used to store the python notes from the ACCA coursera course using Jupyter Notebook.
+This repository is used to store miscellaneous Python notes.
 
 2 October 2022
