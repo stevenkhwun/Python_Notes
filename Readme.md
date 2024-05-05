@@ -1,9 +1,12 @@
 This repository is used to store miscellaneous Python notes.
 
-[Recursion](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Recursion.ipynb)
+* [Python Programming](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Python-Programming.ipynb)
+  * Vectorization in Python
+  * Recursion
+* [Python Methods](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Python-Methods.ipynb)
+  * Tuple
+  * List
+  * String Module in Python Standard Library
 
-[Vectorization in Python](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Vectorization.ipynb)
-
-[String Module in Python Standard Library](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/String.ipynb)
 
 23 December 2023
