@@ -1,7 +1,7 @@
 This repository is used to store miscellaneous Python notes.
 
 * File Management
-  * [Importing data using `common.py`]
+  * [Importing data using `common.py`](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/File-Management.ipynb)
   
 
 * [Python Programming](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Python-Programming.ipynb)
