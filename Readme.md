@@ -12,5 +12,7 @@ This repository is used to store miscellaneous Python notes.
   * List
   * String Module in Python Standard Library
 
+* Markdown and HTML notes
+  * [Markdown and HTML](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Cheat_sheet_for_Google_Colab.ipynb)
 
 23 December 2023
