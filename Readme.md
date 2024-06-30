@@ -2,7 +2,10 @@ This repository is used to store miscellaneous Python notes.
 
 * File Management
   * [Importing data using `common.py`](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/File-Management.ipynb)
-  
+
+* SQL using Python
+  * [Pandas equivalent of 10 useful SQL queries](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Pandas_SQL-queries.ipynb)
+ 
 
 * [Python Programming](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Python-Programming.ipynb)
   * Vectorization in Python
