@@ -1,5 +1,8 @@
 This repository is used to store miscellaneous Python notes.
 
+* Python Functions
+  * [Python Functions](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Python-Functions.ipynb)
+
 * Miscellaneous tricks
   * [Miscellaneous Python tricks](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Python-tricks.ipynb)
 
