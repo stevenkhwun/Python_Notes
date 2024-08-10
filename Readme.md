@@ -1,5 +1,8 @@
 This repository is used to store miscellaneous Python notes.
 
+* Miscellaneous tricks
+  * [Miscellaneous Python tricks](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/Python-tricks.ipynb)
+
 * File Management
   * [Importing data using `common.py`](https://nbviewer.org/github/stevenkhwun/Python_Notes/blob/main/File-Management.ipynb)
 
